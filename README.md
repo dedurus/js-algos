@@ -5,5 +5,6 @@ PRs welcome
 
 List:
 
-- no-duplicates-in-array.js - Return array without duplicate elements
-- nth-fibonacci-number.js   - Return n-th number of Fibonacci sequence 
+- no-duplicates-in-array.js  - Return array without duplicate elements
+- nth-fibonacci-number.js    - Return n-th number of Fibonacci sequence 
+- greatest-common-divisor.js -  Greatest common divisor of two numbers
