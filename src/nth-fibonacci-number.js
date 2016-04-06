@@ -1,4 +1,4 @@
-//  Getting Nth Fibonacci number
+//  Getting N-th Fibonacci number
 
 // 1.  --------------------------
 function fibonacci(n){
