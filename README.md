@@ -13,5 +13,5 @@ List:
 - string-reverse.js              - Return a reversed string
 - remove-duplicate-characters.js - Remove any duplicate characters from a string
 - palindrom.js                   - Check if a string is a palindrom
-- shuffle-array.js               - Shuffle an array (Fisher–Yates shuffle https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle)
+- shuffle-array.js               - Shuffle an array 
 

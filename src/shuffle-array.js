@@ -1,4 +1,6 @@
-// Shuffle an array (Fisher–Yates shuffle https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle)
+// Shuffle an array 
+
+// 1. (Fisher–Yates shuffle https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle)
 
 function shuffle(array) {
     var currentIndex = array.length, temporaryValue, randomIndex;
