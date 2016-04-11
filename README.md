@@ -14,4 +14,5 @@ List:
 - remove-duplicate-characters.js - Remove any duplicate characters from a string
 - palindrom.js                   - Check if a string is a palindrom
 - shuffle-array.js               - Shuffle an array 
+- remove-duplicate-elements.js   - Remove duplicate elements from an array
 
