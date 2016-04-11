@@ -15,4 +15,4 @@ function removeDups(arr){
   return returnArray;
 }
 
-removeDups([1,3,3,3,1,5,6,7,8,1]);
+removeDups([10,30,3,30,3,10,5,6,7,8,1,1, 'test', 'test']);
