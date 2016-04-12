@@ -15,4 +15,5 @@ List:
 - palindrom.js                   - Check if a string is a palindrom
 - shuffle-array.js               - Shuffle an array 
 - remove-duplicate-elements.js   - Remove duplicate elements from an array
+- sum_array.js                   - Check whether there are any two numbers from an unsorted array that will sum up to a given number
 
