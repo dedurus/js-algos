@@ -17,3 +17,4 @@ List:
 - remove-duplicate-elements.js   - Remove duplicate elements from an array
 - sum_array.js                   - Check whether there are any two numbers from an unsorted array that will sum up to a given number
 - factorial.js                   - Recursive function to compute the factorial of any number
+- knapsack-problem.js            - Knapsack Problem
